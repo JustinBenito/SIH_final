@@ -6,7 +6,7 @@ const Navbar = () => {
   return (
     <nav className="m-0 sticky bg-black !text-white w-full flex flex-row py-2.5 px-4 box-border items-center justify-between top-[0] z-[1] !font-manrope">
       <button className="cursor-pointer [border:none] p-0 bg-[transparent] flex flex-row items-center justify-start text-white text-xl font-manrope">
-      Ai Tube
+      Vriddhi
       </button>
 
       <div className=" flex flex-row items-center justify-start gap-[51px]">
